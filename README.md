@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Jules !
 
-<!--
-**jospinlenumerique/jospinlenumerique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en Informatique de Gestion | Développeur Full-Stack | Infographiste**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À Propos de Moi
+
+```python
+class EtudiantInformatique:
+    def __init__(self):
+        self.nom = "Jules"
+        self.formation = "Informatique de Gestion"
+        self.passions = ["Développement Web", "Design Graphique", "UI/UX"]
+        self.objectif = "Devenir Développeur Full-Stack"
+    
+    def competences_principales(self):
+        return ["HTML/CSS", "JavaScript", "PHP", "MySQL", "Adobe Creative Suite"]
+    
+    def en_apprentissage(self):
+        return ["React", "Node.js", "Python", "Figma"]
+
+moi = EtudiantInformatique()
